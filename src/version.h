@@ -1,1 +1,0 @@
-#define SPARTA_VERSION "24 Jan 2020"
